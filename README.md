@@ -1,5 +1,7 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/snoopysecurity/dvws-node) 
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SudeepaShiranthaka_Sonar_DVWS&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=SudeepaShiranthaka_Sonar_DVWS)
+
 # dvws-node
 Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API related vulnerabilities.  This is a replacement for https://github.com/snoopysecurity/dvws
 
